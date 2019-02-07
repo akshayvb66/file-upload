@@ -1,0 +1,21 @@
+
+div{
+    
+    
+    margin:auto;
+    width:500px;
+    height: 500px;
+   ;
+}
+body
+{
+    background-color:grey;
+    margin :auto;
+}
+
+
+
+    p{
+        border-style: solid;
+
+    }
